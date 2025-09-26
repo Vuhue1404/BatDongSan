@@ -1,0 +1,77 @@
+.authPage {
+    background-color: #f4f6f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+/* Card chung */
+.authCard {
+    background: #fff;
+    width: 100%;
+    max-width: 420px;
+    padding: 30px 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Tiêu đề */
+.authTitle {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+/* Input chung */
+.formInput {
+    width: 100%;
+    padding: 10px 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 14px;
+    outline: none;
+    transition: 0.2s;
+}
+
+.formInput:focus {
+    border-color: #28a745;
+    box-shadow: 0 0 4px rgba(40, 167, 69, 0.5);
+}
+
+/* Nút chung */
+.formButton {
+    width: 100%;
+    padding: 12px;
+    background: #28a745;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.formButton:hover {
+    background: #218838;
+}
+
+/* Extra link */
+.formExtra {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.formExtra a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.formExtra a:hover {
+    text-decoration: underline;
+}

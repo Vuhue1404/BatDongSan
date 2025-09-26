@@ -1,0 +1,139 @@
+/* Form căn giữa */
+.search-form {
+    margin: auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+    background-color: #fff;
+    font-family: Arial, sans-serif;
+}
+.search-form .form-check-input:checked {
+    background-color: #00a651;
+    border-color: #00a651;
+}
+    /* Radio buttons xanh lá, size 12px */
+.search-radio .form-check-input {
+    width: 12px;
+    height: 12px;
+    accent-color: #00a651; /* màu xanh lá khi check */
+}
+
+.search-radio .form-check-label {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+/* Hang 1 */
+.search-row1 {
+    display: flex;
+
+    height: 56px;
+    margin-top: 24px;
+
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.search-type, .search-input {
+    border-radius: 6px;
+    border: 1px solid #d0d7de;
+    padding: 0 10px;
+    font-size: 14px;
+    background-color: #f4f6f9;
+    color: #333;
+    outline: none; /* bỏ outline khi focus */
+    box-shadow: none;
+}
+
+.search-row1 .search-type {
+    border: none;
+}
+
+.search-type { flex: 1; }   /* chiếm hết không gian còn lại */
+.search-input { flex: 2; }
+
+.search-type:hover, .search-input:hover { border-color: #00a651; }
+
+/* Section không xanh khi chọn */
+.search-type[multiple] option:checked {
+    background-color: #00a651; /* nếu bạn muốn màu xanh lá, có thể để trắng nếu không muốn */
+    color: white;
+}
+
+/* Dropdown focus: background trắng + shadow */
+.search-type:focus,
+.search-input:focus,
+.search-row2 select:focus {
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    border-color: #00a651;
+}
+
+/* Nút tìm kiếm */
+.search-btn {
+    width: 140px;
+    height: 56px;
+    background-color: #00a651;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    transition: background 0.2s;
+}
+
+.search-btn:hover { background-color: #008f44; }
+
+/* Hang 2 */
+.search-row2 {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.search-row2 select {
+    flex: 1;
+    height: 42px;
+    border-radius: 6px;
+    border: 1px solid #d0d7de;
+    padding: 0 10px;
+    background-color: #f4f6f9;
+    outline: none;
+    box-shadow: none;
+    transition: all 0.2s;
+}
+option {
+    background: white; /* Đặt màu nền trắng cho các option */
+    color: black; /* Đặt màu chữ đen */
+}
+
+option:checked {
+    background: white; /* Loại bỏ màu xanh khi chọn */
+}
+/* Sub-option xổ xuống: không viền, có shadow */
+.search-row2 select option {
+    border: none;
+    box-shadow: none;
+}
+
+/* Hover dropdown */
+.search-row2 select:hover {
+    border-color: #00a651;
+}
+
+/* Nút reload tròn */
+.reload-btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #d0d7de;
+    background-color: #f4f6f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.reload-btn:hover { background-color: #e0e0e0; }
+.reload-btn:focus { outline: none; } /* không đổi màu khi click */
