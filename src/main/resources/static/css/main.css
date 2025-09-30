@@ -163,7 +163,7 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   border-bottom: 1px solid #ecedf1;
-  padding: 15px 0;
+  padding: 15px 0 15px 20px;
   transition: all 0.5s;
   z-index: 997;
 }
@@ -9074,6 +9074,18 @@ section,
     margin: 0 20px;
   }
 }
+
+.btn-send {
+  background-color: #28a745; /* Xanh Bootstrap */
+  color: #fff;
+  border: none;
+}
+
+.btn-send:hover {
+  background-color: #157347; /* Xanh đậm khi hover */
+  color: #fff;
+}
+
 
 /*--------------------------------------------------------------
 # Starter Section Section

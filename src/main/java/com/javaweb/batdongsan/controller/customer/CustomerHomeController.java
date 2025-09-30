@@ -28,6 +28,11 @@ public class CustomerHomeController {
         return "customer/contract-view";
     }
 
+    @GetMapping("/customer/dangtin")
+    public String postView() {
+        return "customer/dangtin";
+    }
+
     // Nhu cầu
     @GetMapping("/customer/demand")
     public String demand() {

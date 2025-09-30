@@ -1,0 +1,17 @@
+.btn-add {
+    background: #3da047;
+    border-color: #ccc #ccc #b3b3b3;
+    color: #fff;
+    padding: 8px 14px;
+    font-size: 14px;
+    margin: 0 0 15px 0;
+}
+
+.btn-add:hover {
+    background-color: #008f44;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}

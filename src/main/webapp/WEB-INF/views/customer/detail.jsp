@@ -8,11 +8,11 @@
     <!-- Page Title -->
     <div class="page-title light-background">
         <div class="container d-lg-flex justify-content-between align-items-center">
-            <h1 class="mb-2 mb-lg-0">Property Details</h1>
+            <h1 class="mb-2 mb-lg-0">Chi tiết bất động sản</h1>
             <nav class="breadcrumbs">
                 <ol>
-                    <li><a href="index.html">Home</a></li>
-                    <li class="current">Property Details</li>
+                    <li><a href="">Trang chủ</a></li>
+                    <li class="current">Chi tiết bất động sản</li>
                 </ol>
             </nav>
         </div>
@@ -48,56 +48,56 @@
                                 </script>
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-7.webp" class="img-fluid hero-image" alt="Property Main Image">
+                                        <img src="/img/real-estate/property-exterior-7.webp" class="img-fluid hero-image" alt="Property Main Image">
                                         <div class="hero-overlay">
                                             <div class="property-badge">
-                                                <span class="status-badge for-rent">For Rent</span>
-                                                <span class="featured-badge">Featured</span>
+                                                <span class="status-badge for-rent">Cho thuê</span>
+                                                <span class="featured-badge">Nổi bật</span>
                                             </div>
                                             <button class="virtual-tour-btn">
                                                 <i class="bi bi-play-circle"></i>
-                                                Virtual Tour
+                                                Tham quan nhà
                                             </button>
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-7.webp" class="img-fluid hero-image" alt="Interior View">
+                                        <img src="/img/real-estate/property-interior-7.webp" class="img-fluid hero-image" alt="Interior View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-9.webp" class="img-fluid hero-image" alt="Exterior View">
+                                        <img src="/img/real-estate/property-exterior-9.webp" class="img-fluid hero-image" alt="Exterior View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-5.webp" class="img-fluid hero-image" alt="Features">
+                                        <img src="/img/real-estate/features-5.webp" class="img-fluid hero-image" alt="Features">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-8.webp" class="img-fluid hero-image" alt="More Photos">
+                                        <img src="/img/real-estate/property-interior-8.webp" class="img-fluid hero-image" alt="More Photos">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-3.webp" class="img-fluid hero-image" alt="Exterior Detail">
+                                        <img src="/img/real-estate/property-exterior-3.webp" class="img-fluid hero-image" alt="Exterior Detail">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-4.webp" class="img-fluid hero-image" alt="Living Area">
+                                        <img src="/img/real-estate/property-interior-4.webp" class="img-fluid hero-image" alt="Living Area">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-2.webp" class="img-fluid hero-image" alt="Kitchen">
+                                        <img src="/img/real-estate/features-2.webp" class="img-fluid hero-image" alt="Kitchen">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-5.webp" class="img-fluid hero-image" alt="Bedroom">
+                                        <img src="/img/real-estate/property-interior-5.webp" class="img-fluid hero-image" alt="Bedroom">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-1.webp" class="img-fluid hero-image" alt="Building View">
+                                        <img src="/img/real-estate/property-exterior-1.webp" class="img-fluid hero-image" alt="Building View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-3.webp" class="img-fluid hero-image" alt="Bathroom">
+                                        <img src="/img/real-estate/features-3.webp" class="img-fluid hero-image" alt="Bathroom">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-2.webp" class="img-fluid hero-image" alt="Dining Area">
+                                        <img src="/img/real-estate/property-interior-2.webp" class="img-fluid hero-image" alt="Dining Area">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-8.webp" class="img-fluid hero-image" alt="Balcony View">
+                                        <img src="/img/real-estate/property-exterior-8.webp" class="img-fluid hero-image" alt="Balcony View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-1.webp" class="img-fluid hero-image" alt="Amenities">
+                                        <img src="/img/real-estate/features-1.webp" class="img-fluid hero-image" alt="Amenities">
                                     </div>
                                 </div>
                                 <div class="swiper-button-next"></div>
@@ -126,46 +126,46 @@
                                 </script>
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-7.webp" class="img-fluid thumbnail-img" alt="Property Main Image">
+                                        <img src="/img/real-estate/property-exterior-7.webp" class="img-fluid thumbnail-img" alt="Property Main Image">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-7.webp" class="img-fluid thumbnail-img" alt="Interior View">
+                                        <img src="/img/real-estate/property-interior-7.webp" class="img-fluid thumbnail-img" alt="Interior View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-9.webp" class="img-fluid thumbnail-img" alt="Exterior View">
+                                        <img src="/img/real-estate/property-exterior-9.webp" class="img-fluid thumbnail-img" alt="Exterior View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-5.webp" class="img-fluid thumbnail-img" alt="Features">
+                                        <img src="/img/real-estate/features-5.webp" class="img-fluid thumbnail-img" alt="Features">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-8.webp" class="img-fluid thumbnail-img" alt="More Photos">
+                                        <img src="/img/real-estate/property-interior-8.webp" class="img-fluid thumbnail-img" alt="More Photos">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-3.webp" class="img-fluid thumbnail-img" alt="Exterior Detail">
+                                        <img src="/img/real-estate/property-exterior-3.webp" class="img-fluid thumbnail-img" alt="Exterior Detail">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-4.webp" class="img-fluid thumbnail-img" alt="Living Area">
+                                        <img src="/img/real-estate/property-interior-4.webp" class="img-fluid thumbnail-img" alt="Living Area">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-2.webp" class="img-fluid thumbnail-img" alt="Kitchen">
+                                        <img src="/img/real-estate/features-2.webp" class="img-fluid thumbnail-img" alt="Kitchen">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-5.webp" class="img-fluid thumbnail-img" alt="Bedroom">
+                                        <img src="/img/real-estate/property-interior-5.webp" class="img-fluid thumbnail-img" alt="Bedroom">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-1.webp" class="img-fluid thumbnail-img" alt="Building View">
+                                        <img src="/img/real-estate/property-exterior-1.webp" class="img-fluid thumbnail-img" alt="Building View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-3.webp" class="img-fluid thumbnail-img" alt="Bathroom">
+                                        <img src="/img/real-estate/features-3.webp" class="img-fluid thumbnail-img" alt="Bathroom">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-interior-2.webp" class="img-fluid thumbnail-img" alt="Dining Area">
+                                        <img src="/img/real-estate/property-interior-2.webp" class="img-fluid thumbnail-img" alt="Dining Area">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/property-exterior-8.webp" class="img-fluid thumbnail-img" alt="Balcony View">
+                                        <img src="/img/real-estate/property-exterior-8.webp" class="img-fluid thumbnail-img" alt="Balcony View">
                                     </div>
                                     <div class="swiper-slide">
-                                        <img src="assets/img/real-estate/features-1.webp" class="img-fluid thumbnail-img" alt="Amenities">
+                                        <img src="/img/real-estate/features-1.webp" class="img-fluid thumbnail-img" alt="Amenities">
                                     </div>
                                 </div>
                             </div>
@@ -175,18 +175,25 @@
                     <!-- Property Information -->
                     <div class="property-info mb-5" data-aos="fade-up" data-aos-delay="300">
                         <div class="property-header">
-                            <h1 class="property-title">Executive Penthouse with City Views</h1>
+                            <h1 class="property-title">Căn hộ áp mái sang trọng có tầm nhìn ra thành phố</h1>
                             <div class="property-meta">
-                                <span class="address"><i class="bi bi-geo-alt"></i> 4751 Madison Avenue, New York, NY 10037</span>
+                                <span class="address"><i class="bi bi-geo-alt"></i> 4751 Đại lộ Madison</span>
                                 <span class="listing-id">ID: #PE-2024-0847</span>
+                                <span style="    margin-left: auto;
+    display: flex
+;
+    gap: 20px;">
+                                    <i class="bi bi-share"></i>
+                                    <i class="bi bi-heart"></i>
+                                </span>
                             </div>
                         </div>
 
                         <div class="pricing-section">
                             <div class="main-price">$4,850<span class="period">/month</span></div>
                             <div class="price-breakdown">
-                                <span class="deposit">Security Deposit: $9,700</span>
-                                <span class="available">Available from March 15</span>
+                                <span class="deposit">Tiền cọc: $9,700</span>
+<%--                                <span class="available">Available from March 15</span>--%>
                             </div>
                         </div>
 
@@ -198,7 +205,7 @@
                                     </div>
                                     <div class="stat-content">
                                         <span class="stat-number">3</span>
-                                        <span class="stat-label">Bedrooms</span>
+                                        <span class="stat-label">Phòng ngủ</span>
                                     </div>
                                 </div>
                                 <div class="stat-card">
@@ -207,7 +214,7 @@
                                     </div>
                                     <div class="stat-content">
                                         <span class="stat-number">2.5</span>
-                                        <span class="stat-label">Bathrooms</span>
+                                        <span class="stat-label">Phòng tắn</span>
                                     </div>
                                 </div>
                                 <div class="stat-card">
@@ -215,8 +222,8 @@
                                         <i class="bi bi-arrows-angle-expand"></i>
                                     </div>
                                     <div class="stat-content">
-                                        <span class="stat-number">1,890</span>
-                                        <span class="stat-label">Sq Ft</span>
+                                        <span class="stat-number">77</span>
+                                        <span class="stat-label">m2</span>
                                     </div>
                                 </div>
                                 <div class="stat-card">
@@ -225,7 +232,7 @@
                                     </div>
                                     <div class="stat-content">
                                         <span class="stat-number">2</span>
-                                        <span class="stat-label">Parking</span>
+                                        <span class="stat-label">Bãi đậu xe</span>
                                     </div>
                                 </div>
                                 <div class="stat-card">
@@ -233,8 +240,8 @@
                                         <i class="bi bi-building"></i>
                                     </div>
                                     <div class="stat-content">
-                                        <span class="stat-number">15th</span>
-                                        <span class="stat-label">Floor</span>
+                                        <span class="stat-number">2</span>
+                                        <span class="stat-label">tầng</span>
                                     </div>
                                 </div>
                             </div>
@@ -242,90 +249,96 @@
                     </div><!-- End Property Information -->
 
                     <!-- Description & Features -->
-                    <div class="property-details mb-5" data-aos="fade-up" data-aos-delay="400">
-                        <h3>Property Description</h3>
-                        <p>Experience luxury living in this stunning penthouse apartment featuring panoramic city views and premium finishes throughout. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<%--                    <div class="property-details mb-5" data-aos="fade-up" data-aos-delay="400">--%>
+<%--                        <h3>Thông tin mô tả</h3>--%>
+<%--                        <p>BÁN NHÀ 77M2 HẺM XE TẢI NGAY LÃ XUÂN OAI GIAO LÊ VĂN VIỆT TRUNG TÂM THÀNH PHỐ THỦ ĐỨC NHỈNH 5 TỶ--%>
+<%--                            Diện tích: 77m2 (4.5m x 17.2m), sổ hồng riêng, pháp lý chuẩn, công chứng ngayKết cấu: 1 trệt 1 lầu kiên cố, gồm 3 phòng ngủ,... ...</p>--%>
+<%--                   --%>
+<%--                    </div>--%>
+                    <div class="property-details mb-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+                        <h3>Thông tin mô tả</h3>
+                        <p id="desc" class="collapsed">
+                            BÁN NHÀ 77M2 HẺM XE TẢI NGAY LÃ XUÂN OAI GIAO LÊ VĂN VIỆT TRUNG TÂM THÀNH PHỐ THỦ ĐỨC NHỈNH 5 TỶ
+                            Diện tích: 77m2 (4.5m x 17.2m), sổ hồng riêng, pháp lý chuẩn, công chứng ngayKết cấu: 1 trệt 1 lầu kiên cố, gồm 3 phòng ngủ, 3 wc, phòng khách, bếp, sân để xe
+                            Vị trí: Hẻm xe tải thông thoáng, cách mặt tiền Lã Xuân Oai – Lê Văn Việt chỉ vài bước. Nằm ngay trung tâm thành phố Thủ Đức, khu dân cư hiện hữu, an ninh tốt, hàng xóm thân thiện, thích hợp ở lâu dài hoặc kinh doanh cho thuê
+                            Tiện ích xung quanh:
 
-                        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
 
-                        <div class="features-grid mt-4">
-                            <div class="row">
-                                <div class="col-md-6">
-                                    <h5>Interior Features</h5>
-                                    <ul class="feature-list">
-                                        <li><i class="bi bi-check2"></i> Floor-to-ceiling windows</li>
-                                        <li><i class="bi bi-check2"></i> Hardwood flooring</li>
-                                        <li><i class="bi bi-check2"></i> Gourmet kitchen</li>
-                                        <li><i class="bi bi-check2"></i> In-unit washer/dryer</li>
-                                        <li><i class="bi bi-check2"></i> Walk-in closets</li>
-                                    </ul>
-                                </div>
-                                <div class="col-md-6">
-                                    <h5>Building Amenities</h5>
-                                    <ul class="feature-list">
-                                        <li><i class="bi bi-check2"></i> Rooftop terrace</li>
-                                        <li><i class="bi bi-check2"></i> Fitness center</li>
-                                        <li><i class="bi bi-check2"></i> 24/7 concierge</li>
-                                        <li><i class="bi bi-check2"></i> Indoor pool</li>
-                                        <li><i class="bi bi-check2"></i> Pet-friendly</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div><!-- End Description & Features -->
+                            Gần chợ Nhỏ, Vincom Lê Văn Việt, Coopmart, Vinmart, bệnh viện Quân Dân Y
 
-                    <!-- Floor Plan -->
-                    <div class="floor-plan-section mb-5" data-aos="fade-up" data-aos-delay="500">
-                        <h3>Floor Plan</h3>
-                        <div class="floor-plan-card">
-                            <img src="assets/img/real-estate/property-interior-9.webp" class="img-fluid" alt="Floor Plan">
-                            <div class="plan-details">
-                                <h5>3 Bedroom Penthouse Layout</h5>
-                                <p>Open concept living and dining area with private balcony access. Master suite features ensuite bathroom and city views.</p>
-                            </div>
-                        </div>
-                    </div><!-- End Floor Plan -->
+                            Kết nối nhanh ra Xa Lộ Hà Nội, Vành Đai 2, khu công nghệ cao, bến xe Miền Đông mới
+                            Trường học xung quanh:
 
-                </div>
+
+                            Mầm non Hoa Hồng, Mầm non Hoa Phượng, Mầm non 19-5
+
+                            Tiểu học Lê Văn Việt, Tiểu học Nguyễn Văn Bá
+
+                            THCS Hoa Lư, THCS Long Trường, THCS Nguyễn Văn Tố
+
+                            THPT Nguyễn Huệ, THPT Long Trường, THPT Nguyễn Văn Tăng
+                        </p>
+                        <span id="toggleBtn" class="toggle-btn">Xem thêm</span>
+                    </div>
+
+                    <style>
+                        #desc {
+                            max-height: 60px;   /* ẩn bớt nội dung dài */
+                            overflow: hidden;
+                            transition: max-height 0.3s ease;
+                        }
+
+                        #desc.expanded {
+                            max-height: 1000px; /* đủ lớn để hiện hết */
+                        }
+
+                        .toggle-btn {
+                            display: block;
+                            text-align: center;
+                            margin-top: 5px;
+                            color: green;
+                            font-weight: bold;
+                            cursor: pointer;
+                        }
+                    </style>
+
+                    <script>
+                        const desc = document.getElementById("desc");
+                        const btn = document.getElementById("toggleBtn");
+
+                        btn.addEventListener("click", () => {
+                            desc.classList.toggle("expanded");
+                            if (desc.classList.contains("expanded")) {
+                                btn.textContent = "Ẩn bớt";
+                            } else {
+                                btn.textContent = "Xem thêm";
+                            }
+                        });
+                    </script>
+
+
+                    <!-- End Description & Features -->
+
+<%--                    <!-- Floor Plan -->--%>
+
+<!-- End Floor Plan -->
+
+               </div>
 
                 <!-- Sidebar -->
                 <div class="col-lg-5">
                     <div class="sticky-sidebar">
 
-                        <!-- Quick Actions -->
-                        <div class="actions-card mb-4" data-aos="fade-up" data-aos-delay="250">
-                            <div class="action-buttons">
-                                <button class="btn btn-primary btn-lg w-100 mb-3">
-                                    <i class="bi bi-calendar-check"></i>
-                                    Schedule Viewing
-                                </button>
-                                <div class="row g-2">
-                                    <div class="col-6">
-                                        <button class="btn btn-outline-primary w-100">
-                                            <i class="bi bi-heart"></i>
-                                            Save
-                                        </button>
-                                    </div>
-                                    <div class="col-6">
-                                        <button class="btn btn-outline-primary w-100">
-                                            <i class="bi bi-share"></i>
-                                            Share
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div><!-- End Quick Actions -->
 
                         <!-- Agent Card -->
                         <div class="agent-card mb-4" data-aos="fade-up" data-aos-delay="350">
                             <div class="agent-header">
                                 <div class="agent-avatar">
-                                    <img src="assets/img/person/person-f-12.webp" class="img-fluid" alt="Agent Photo">
+                                    <img src="/img/person/person-f-12.webp" class="img-fluid" alt="Agent Photo">
                                     <div class="online-status"></div>
                                 </div>
                                 <div class="agent-info">
-                                    <h4>Sarah Johnson</h4>
-                                    <p class="agent-role">Licensed Real Estate Agent</p>
+                                    <h4>Bùi Lê Đại Phong</h4>
                                     <div class="agent-rating">
                                         <div class="stars">
                                             <i class="bi bi-star-fill"></i>
@@ -334,7 +347,7 @@
                                             <i class="bi bi-star-fill"></i>
                                             <i class="bi bi-star-fill"></i>
                                         </div>
-                                        <span class="rating-text">5.0 (127 reviews)</span>
+                                        <span class="rating-text">5.0 (127 đánh giá)</span>
                                     </div>
                                 </div>
                             </div>
@@ -352,99 +365,41 @@
 
                             <div class="agent-actions mt-3">
                                 <button class="btn btn-success w-100 mb-2">
-                                    <i class="bi bi-telephone"></i>
-                                    Call Now
+                                    <i class="bi bi-envelope"></i>
+                                    Gửi mail
                                 </button>
-                                <button class="btn btn-outline w-100">
+                                <button class="btn btn-outline w-100" data-bs-toggle="modal" data-bs-target="#contactForm">
                                     <i class="bi bi-chat-dots"></i>
-                                    Send Message
+                                    Yêu cầu liên hệ lại
                                 </button>
+
                             </div>
                         </div><!-- End Agent Card -->
 
-                        <!-- Contact Form -->
-                        <div class="contact-form-card mb-4" data-aos="fade-up" data-aos-delay="450">
-                            <h4>Request Information</h4>
-                            <form action="forms/contact.php" method="post" class="php-email-form">
-                                <div class="row">
-                                    <div class="col-12 mb-3">
-                                        <input type="text" name="name" class="form-control" placeholder="Full Name" required="">
-                                    </div>
-                                    <div class="col-12 mb-3">
-                                        <input type="email" name="email" class="form-control" placeholder="Email Address" required="">
-                                    </div>
-                                    <div class="col-12 mb-3">
-                                        <input type="tel" name="phone" class="form-control" placeholder="Phone Number">
-                                    </div>
-                                    <div class="col-12 mb-3">
-                                        <select name="subject" class="form-select" required="">
-                                            <option value="">I'm interested in...</option>
-                                            <option value="Scheduling a viewing">Scheduling a viewing</option>
-                                            <option value="Getting more information">Getting more information</option>
-                                            <option value="Submitting an application">Submitting an application</option>
-                                        </select>
-                                    </div>
-                                    <div class="col-12 mb-3">
-                                        <textarea name="message" class="form-control" rows="4" placeholder="Additional questions or preferred viewing times..."></textarea>
-                                    </div>
-                                </div>
-
-                                <div class="loading">Loading</div>
-                                <div class="error-message"></div>
-                                <div class="sent-message">Your request has been sent successfully!</div>
-
-                                <button type="submit" class="btn btn-primary w-100">Send Request</button>
-                            </form>
-                        </div><!-- End Contact Form -->
-
-                        <!-- Rental Calculator -->
-                        <div class="calculator-card mb-4" data-aos="fade-up" data-aos-delay="550">
-                            <h4>Monthly Cost Calculator</h4>
-                            <div class="calculator-content">
-                                <div class="cost-item">
-                                    <span class="cost-label">Monthly Rent</span>
-                                    <span class="cost-value">$4,850</span>
-                                </div>
-                                <div class="cost-item">
-                                    <span class="cost-label">Utilities (estimated)</span>
-                                    <span class="cost-value">$180</span>
-                                </div>
-                                <div class="cost-item">
-                                    <span class="cost-label">Parking</span>
-                                    <span class="cost-value">$250</span>
-                                </div>
-                                <div class="cost-item">
-                                    <span class="cost-label">Pet Fee</span>
-                                    <span class="cost-value">$50</span>
-                                </div>
-                                <div class="total-cost">
-                                    <span class="total-label">Total Monthly Cost</span>
-                                    <span class="total-value">$5,330</span>
-                                </div>
-                            </div>
-                        </div><!-- End Rental Calculator -->
 
                         <!-- Similar Properties -->
                         <div class="similar-properties" data-aos="fade-up" data-aos-delay="650">
-                            <h4>Similar Properties</h4>
+                            <h4>Bất động sản dành cho bạn</h4>
+
                             <div class="similar-property-item">
-                                <img src="assets/img/real-estate/property-exterior-4.webp" class="img-fluid" alt="Similar Property">
+                                <img src="/img/real-estate/property-exterior-4.webp" class="img-fluid" alt="Similar Property">
                                 <div class="similar-info">
-                                    <h6>Luxury Apartment Downtown</h6>
-                                    <p class="similar-price">$4,200/month</p>
-                                    <p class="similar-specs">2 bed • 2 bath • 1,650 sq ft</p>
+                                    <h6>Căn hộ sang trọng ở trung tâm thành phố</h6>
+                                    <p class="similar-price">$4,200/tháng</p>
+                                    <p class="similar-specs">30m2 • 3 phòng ngủ</p>
                                 </div>
                             </div>
 
                             <div class="similar-property-item">
-                                <img src="assets/img/real-estate/property-interior-6.webp" class="img-fluid" alt="Similar Property">
+                                <img src="/img/real-estate/property-interior-6.webp" class="img-fluid" alt="Similar Property">
                                 <div class="similar-info">
-                                    <h6>Modern Penthouse Suite</h6>
-                                    <p class="similar-price">$5,100/month</p>
-                                    <p class="similar-specs">3 bed • 2.5 bath • 1,920 sq ft</p>
+                                    <h6>Phòng aps mái hiện đại</h6>
+                                    <p class="similar-price">$5,100/tháng</p>
+                                    <p class="similar-specs">30m2 • 3 phòng ngủ</p>
                                 </div>
                             </div>
-                        </div><!-- End Similar Properties -->
+                        </div>
+                        <!-- End Similar Properties -->
 
                     </div>
                 </div><!-- End Sidebar -->
@@ -453,7 +408,7 @@
 
             <!-- Location Section -->
             <div class="location-section mt-5" data-aos="fade-up" data-aos-delay="700">
-                <h3>Location &amp; Neighborhood</h3>
+                <h3>Vị trí &amp; Khu vự lân cận</h3>
                 <div class="row">
                     <div class="col-lg-8">
                         <div class="map-wrapper">
@@ -462,33 +417,33 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="neighborhood-info">
-                            <h5>Neighborhood Highlights</h5>
+                            <h5>Điểm nổi bật của khu phố</h5>
                             <div class="poi-item">
                                 <i class="bi bi-mortarboard"></i>
                                 <div class="poi-content">
-                                    <span class="poi-name">Columbia University</span>
-                                    <span class="poi-distance">0.4 miles</span>
+                                    <span class="poi-name">Đại học Ngoại thương</span>
+                                    <span class="poi-distance">1km</span>
                                 </div>
                             </div>
                             <div class="poi-item">
                                 <i class="bi bi-cup-hot"></i>
                                 <div class="poi-content">
-                                    <span class="poi-name">Local Coffee Shops</span>
-                                    <span class="poi-distance">2 min walk</span>
+                                    <span class="poi-name">Quán cà phê</span>
+                                    <span class="poi-distance">2 phút đi bộ</span>
                                 </div>
                             </div>
                             <div class="poi-item">
                                 <i class="bi bi-tree"></i>
                                 <div class="poi-content">
-                                    <span class="poi-name">Marcus Garvey Park</span>
-                                    <span class="poi-distance">0.3 miles</span>
+                                    <span class="poi-name">Công viên</span>
+                                    <span class="poi-distance">700m</span>
                                 </div>
                             </div>
                             <div class="poi-item">
                                 <i class="bi bi-train-lightrail-front"></i>
                                 <div class="poi-content">
-                                    <span class="poi-name">125th St Station</span>
-                                    <span class="poi-distance">0.6 miles</span>
+                                    <span class="poi-name">Ga 125</span>
+                                    <span class="poi-distance">800m</span>
                                 </div>
                             </div>
                         </div>
@@ -499,6 +454,41 @@
         </div>
 
     </section><!-- /Property Details Section -->
+
+
+
+    <!-- Modal Form Liên hệ -->
+    <div class="modal fade" id="contactForm" tabindex="-1" aria-labelledby="contactFormLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content p-3">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="contactFormLabel">Yêu cầu liên hệ</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Đóng"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="contactFormSubmit">
+                        <div class="mb-3">
+                            <label class="form-label">Họ và tên *</label>
+                            <input type="text" class="form-control" id="fullName" required>
+                            <div class="text-danger d-none" id="errorName">Họ tên là bắt buộc.</div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Số điện thoại *</label>
+                            <input type="tel" class="form-control" id="phone" required>
+                            <div class="text-danger d-none" id="errorPhone">Số điện thoại là bắt buộc.</div>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Lời nhắn</label>
+                            <textarea class="form-control" rows="3">Tôi quan tâm đến bất động sản này.</textarea>
+                        </div>
+                        <div class="d-grid">
+                            <button type="submit" class="btn btn-send w-100">Gửi yêu cầu</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </main>
 

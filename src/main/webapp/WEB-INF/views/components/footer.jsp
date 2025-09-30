@@ -67,7 +67,9 @@
   <script src="/vendor/aos/aos.js"></script>
   <script src="/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="/vendor/swiper/swiper-bundle.min.js"></script>
-
+  <script src="/js/FormContact.js"></script>
+  <script src="/js/chat.js"></script>
+  <script src="/js/dangtin.js"></script>
   <!-- Main JS File -->
   <script src="/js/main.js?v=1.0"></script>
 </footer>

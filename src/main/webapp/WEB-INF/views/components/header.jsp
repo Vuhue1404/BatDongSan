@@ -22,8 +22,10 @@
   <link href="/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <link href="/css/main.css?v=1.0" rel="stylesheet">
   <link href="/css/header.css" rel="stylesheet" >
+  <link href="/css/chat.css" rel="stylesheet" >
   <link href="/css/search.css" rel="stylesheet" >
   <link href="/css/body.css" rel="stylesheet" >
+  <link href="/css/dangtin.css" rel="stylesheet" >
 
 
   <!-- =======================================================
@@ -36,7 +38,7 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="index.html" class="logo d-flex align-items-center">
+      <a href="http://localhost:8080/customer/home" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
         <svg class="my-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -99,7 +101,7 @@
             </ul>
           </li>
           <li>
-            <a title="Đăng Tin" href="https://batdongsan.vn/sellernet/dang-tin" class="dangtin" style="
+            <a title="Đăng Tin" href="http://localhost:8080/customer/dangtin" class="dangtin" style="
 background: #3da047;
     border-radius: 10px;
     padding: 8px 12px;
@@ -119,3 +121,5 @@ background: #3da047;
       <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
     </div>
   </header>
+
+ <%@include file="../customer/chat.jsp"%>
