@@ -54,4 +54,8 @@ public class CustomerHomeController {
     public String showRegisterPage() {
         return "auth/register";
     }
+    @GetMapping("/forgotpassword")
+    public String showForgotPassword() {
+        return "auth/forgotPassword";
+    }
 }

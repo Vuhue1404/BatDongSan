@@ -462,5 +462,19 @@
 </body>
 
 
+<script>
+    const user = localStorage.getItem("fakeUser");
+    const role = localStorage.getItem("fakeRole");
+
+    if (!user || role !== "user") {
+        window.location.href = "login.jsp";
+    } else {
+        document.getElementById("welcomeMsg").textContent = "Xin chào " + user;
+    }
+
+    function logout() {
+        localStorage.clear();
+        window.location.href = "login.jsp";
+    }
 
 <%@ include file="../components/footer.jsp" %>

@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
          pageEncoding="UTF-8"%>
 <%@ include file="../components/header.jsp" %>
-<link rel="stylesheet" href="/css/auth.css">
+<link rel="stylesheet" href="/css/auth.css?v=1.0">
 
 <div class="authPage">
     <div class="authCard">

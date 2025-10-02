@@ -51,7 +51,6 @@
     border-radius: 6px;
     color: white;
     font-size: 16px;
-    font-weight: bold;
     cursor: pointer;
     transition: 0.2s;
 }
@@ -59,8 +58,17 @@
 .formButton:hover {
     background: #218838;
 }
+.returnLoginButton {
+    margin-top: 8px;
+    background-color: #ffffff;
+    color: #333;
+}
+.returnLoginButton:hover {
+    color: #28a745;
+    background: #ffffff;
 
-/* Extra link */
+}
+    /* Extra link */
 .formExtra {
     text-align: center;
     margin-top: 15px;
