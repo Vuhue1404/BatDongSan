@@ -62,6 +62,10 @@
       VIP Viet Nam JSC
     </div>
   </div>
+  <script>
+    window.APP_CTX = '${pageContext.request.contextPath}';
+  </script>
+
   <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="/vendor/php-email-form/validate.js"></script>
   <script src="/vendor/aos/aos.js"></script>
@@ -70,6 +74,7 @@
   <script src="/js/FormContact.js"></script>
   <script src="/js/chat.js"></script>
   <script src="/js/dangtin.js"></script>
+  <script src="/js/common.js"></script>
   <!-- Main JS File -->
   <script src="/js/main.js?v=1.0"></script>
 </footer>

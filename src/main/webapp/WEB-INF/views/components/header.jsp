@@ -38,7 +38,7 @@
   <header id="header" class="header d-flex align-items-center sticky-top">
     <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
-      <a href="http://localhost:8080/customer/home" class="logo d-flex align-items-center">
+      <a href="${pageContext.request.contextPath}/customer/home" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
         <svg class="my-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -87,7 +87,7 @@
           <li><a href="agents.html">
             <img src="https://batdongsan.vn/assets/icon/heart.svg" alt="Tin đã lưu">
           </a></li>
-          <li class="dropdown  ">
+          <li class="dropdown auth-dropdown ">
             <div class="login_register">
               <a href="#" style=" padding: 8px 12px;">
                 <img style="width: 24px; cursor: pointer; margin-right: 2px;" src="https://batdongsan.vn/assets/img/menu.svg" alt="">
