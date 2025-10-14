@@ -13,9 +13,9 @@
 
         <li class="nav-item">
             <a class="nav-link collapsed" data-bs-target="#nguoidung" data-bs-toggle="collapse" href="#">
-                <i class="bi bi-people"></i><span>Quản lý người dùng</span><i class="bi bi-chevron-down ms-auto"></i>
+                <i class="bi bi-people"></i><span>Quản lý người dùng</span>
             </a>
-            <ul id="nguoidung" class="nav-content collapse " >
+            <!-- <ul id="nguoidung" class="nav-content collapse " >
                 <li>
                     <a href="">
                         <i class="bi bi-person"></i><span>Người dùng</span>
@@ -26,66 +26,36 @@
                         <i class="bi bi-shield-lock"></i><span>Vai trò</span>
                     </a>
                 </li>
-            </ul>
+            </ul> -->
+        </li>
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#toanha" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-shield-lock"></i><span>Quản lý vai trò</span>
+            </a>
+           
         </li>
 
         <li class="nav-item">
             <a class="nav-link collapsed" data-bs-target="#toanha" data-bs-toggle="collapse" href="#">
-                <i class="bi bi-building"></i><span>Quản lý tòa nhà & BDS</span><i class="bi bi-chevron-down ms-auto"></i>
+                <i class="bi bi-buildings"></i><span>Danh mục</span>
+                <!-- <i class="bi bi-chevron-down ms-auto"></i> -->
             </a>
-            <ul id="toanha" class="nav-content collapse " >
-                <li>
-                    <a href="">
-                        <i class="bi bi-building"></i><span>Tòa nhà</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-building"></i><span>Loại BDS</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-image"></i><span>Hình ảnh tòa nhà</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-bounding-box"></i><span>Diện tích cho thuê</span>
-                    </a>
-                </li>
-            </ul>
+           
         </li>
 
         <li class="nav-item">
             <a class="nav-link collapsed" data-bs-target="#contract" data-bs-toggle="collapse" href="#">
-                <i class="bi bi-person"></i>
-                <span>Khách hàng & Hợp đồng</span>
-                <i class="bi bi-chevron-down ms-auto"></i>
+                <i class="bi bi-kanban"></i>
+                <span>Quản lý dự án</span>
+                
             </a>
-
-            <ul id="contract" class="nav-content collapse " >
-                <li>
-                    <a href="">
-                        <i class="bi bi-person"></i><span>Khách hàng</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-file-text"></i><span>Hợp đồng</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-cash-coin"></i><span>Giao dịch</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="">
-                        <i class="bi bi-chat-dots"></i><span>Phản hồi</span>
-                    </a>
-                </li>
-            </ul>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link collapsed" data-bs-target="#toanha" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-building"></i><span>Quản lý bất động sản</span>
+                <!-- <i class="bi bi-chevron-down ms-auto"></i> -->
+            </a>
+           
         </li>
     </ul>
 

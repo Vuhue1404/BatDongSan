@@ -6,10 +6,10 @@
 </head>
 <body>
 <section class="main" id="main">
-    <div class="pagetitle">
+    <div class="pagetitle d-flex align-items-center justify-content-between">
         <h1>General Tables</h1>
         <nav>
-            <ol class="breadcrumb">
+            <ol class="breadcrumb ms-auto">
                 <li class="breadcrumb-item"><a href="">Home</a></li>
                 <li class="breadcrumb-item">Tables</li>
                 <li class="breadcrumb-item active">General</li>

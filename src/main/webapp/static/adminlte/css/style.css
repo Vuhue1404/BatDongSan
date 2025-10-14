@@ -42,7 +42,7 @@ h6 {
 # Main
 --------------------------------------------------------------*/
 #main {
-  /*margin-top: 60px;*/
+  margin-top: 60px;
   padding: 20px 30px;
   transition: all 0.3s;
 }
@@ -271,6 +271,15 @@ h6 {
   box-shadow: none;
 }
 
+
+.btn:focus-visible {
+    color: var(--bs-btn-hover-color);
+    background-color:#3da047;
+    border-color: #3da047;
+    outline: 0;
+    box-shadow: var(--bs-btn-focus-box-shadow);
+
+}
 /* Accordion */
 .accordion-item {
   border: 1px solid #ebeef4;
@@ -342,13 +351,13 @@ h6 {
 
 .nav-tabs-bordered .nav-link:hover,
 .nav-tabs-bordered .nav-link:focus {
-  color:#e0f8e9;
+  color:#3da047;
 }
 
 .nav-tabs-bordered .nav-link.active {
   background-color: #fff;
-  color: #e0f8e9;
-  border-bottom: 2px solid #e0f8e9;
+  color: #3da047;
+  border-bottom: 2px solid #3da047;
 }
 
 /*--------------------------------------------------------------
@@ -1175,6 +1184,8 @@ h6 {
     transform: rotate(360deg);
   }
 }
+
+
 
 /*--------------------------------------------------------------
 # Error 404

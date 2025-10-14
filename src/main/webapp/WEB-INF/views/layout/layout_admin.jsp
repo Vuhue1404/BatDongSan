@@ -51,7 +51,7 @@
 <%--    Sidebar--%>
     <%@include file="../components/sidebar_admin.jsp"%>
 <%--    Body--%>
-    <%@include file="../admin/Users/edit.jsp"%>
+    <%@include file="../admin/Property/create.jsp"%>
 </section>
 <script src="/adminlte/vendor/apexcharts/apexcharts.min.js"></script>
 <script src="/adminlte/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

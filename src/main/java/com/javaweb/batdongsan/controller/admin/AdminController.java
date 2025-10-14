@@ -12,4 +12,10 @@ public class AdminController {
             // Trả về /WEB-INF/views/customer/home.jsp
         }
 
+    @GetMapping("/agent/layout")
+    public String homeAgent() {
+        return "layout/layout_agent";
+        // Trả về /WEB-INF/views/customer/home.jsp
+    }
+
     }
